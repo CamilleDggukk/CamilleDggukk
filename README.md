@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/iNvdV7jFwEAAAAAC/ghostedvpn-hacker-cat.gif" alt="Hacker Cat gif"/>
+<img align="right" height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding gif"/>
+
 
 
 ###
