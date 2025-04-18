@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="menina digitando" width="250"/>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="menina digitando" width="200"/>
 
 
 ###
