@@ -9,9 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/I6kN-6X7nhAAAAAj/cat-computer.gif" alt="Gato digitando gif"/>
-
-
+<img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/cat-computer.gif" alt="gato digitando" width="250"/>
 
 ###
 
