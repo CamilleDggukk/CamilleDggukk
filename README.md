@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/J1B8-xsy1uUAAAAC/ghostedvpn.gif" alt="GhostedVPN gif"/>
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMehekFatima&psig=AOvVaw09RMj7qXJMs6vMqu2wJMxn&ust=1745094926494000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjWhuiqt-KMAxWjjJUCHf5rPXsQjRx6BAgAEBg" alt="GhostedVPN gif"/>
 
 ###
 
