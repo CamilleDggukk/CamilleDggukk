@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/cat-computer.gif" alt="gato digitando" width="250"/>
+<img src="https://tenor.com/pt-BR/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" alt="gato digitando" width="250"/>
 
 ###
 
