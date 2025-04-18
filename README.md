@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Dev gif"/>
+<img align="right" height="150" src="https://media.tenor.com/nhzFzq-6ttgAAAAC/bongo-cat-hacker.gif" alt="Gato digitando gif"/>
 
 
 ###
