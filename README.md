@@ -38,4 +38,4 @@
 
 <br clear="both">
 
-<img src="https://media.tenor.com/J1B8-xsy1uUAAAAC/ghostedvpn.gif" alt="Snake animation" />
+![Snake animation](https://github.com/CamilleDggukk/CamilleDggukk/blob/output/github-contribution-grid-snake.svg)
